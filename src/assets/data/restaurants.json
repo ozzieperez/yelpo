@@ -1,0 +1,45 @@
+[
+    {
+      "name": "McDonalds",
+      "phoneNumber": "123-5555",
+      "address": "123 Way",
+      "price": "$",
+      "type": "Fast food"
+    },
+    {
+      "name": "Fable",
+      "phoneNumber": "999-5555",
+      "address": "99th Ave",
+      "price": "$$",
+      "type": "Casual"
+    },
+    {
+      "name": "Rooster n Rice",
+      "phoneNumber": "456-5555",
+      "address": "456 Street",
+      "price": "$$",
+      "type": "Health fast food"
+    },
+    {
+      "name": "El Techo",
+      "phoneNumber": "789-5555",
+      "address": "789 Ave",
+      "price": "$$$",
+      "type": "Bar"
+    },
+    {
+      "name": "NOPA",
+      "phoneNumber": "987-5555",
+      "address": "987 Drive",
+      "price": "$$$$",
+      "type": "Sit down restaurant"
+    },
+    {
+      "name": "Farmhouse Kitchen Thai Cuisine",
+      "phoneNumber": "765-5555",
+      "address": "765 Blvd",
+      "price": "$$",
+      "type": "Casual"
+    }
+  ]
+  

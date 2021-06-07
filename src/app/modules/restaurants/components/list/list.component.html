@@ -1,0 +1,10 @@
+<h5>Name Filter:</h5>
+<input type="text" (keyup)="filter($event)">
+
+<div *ngFor="let restaurant of restaurants">
+    <app-card [restaurant]="restaurant"></app-card>
+</div>
+
+<div *ngIf="restaurants.length === 0">
+    <h5>No results</h5>
+</div>
